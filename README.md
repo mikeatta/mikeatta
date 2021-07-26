@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imparpaing
-- 👀 I’m interested in cars, clothing and coding.
+- 👀 I’m interested in the automotive industry, fashion and coding.
 - 🌱 I’m currently learning about GitHub
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me through DM's on social media or Discord!
