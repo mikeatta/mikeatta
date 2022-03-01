@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imparpaing | parpaing#0001
 - 👀 I’m interested in the automotive industry and computer science.
-- 🌱 I’m currently learning about fetch API's.
-- 💞️ I’m looking to collaborate on my Uni project assignment.
+- 🌱 I’m currently learning about API's.
+- 💞️ I’m looking to collaborate on my Uni assignment.
 - 📫 Reach me through DM's on social media or Discord!
   
 <!---
