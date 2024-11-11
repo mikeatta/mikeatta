@@ -19,7 +19,7 @@ I am a full-stack developer, currently pursuing a degree in computer science. I 
 
 <details>
   <summary><h3>Experience</h3></summary>
-  Most of my experience comes from building apps for personal use, and building Uni projects. In the past, I've gathered experience in IT and Software Development through internships at Phillips Lighting (currently Signify) as well as working for a small WordPress web design & development studio.
+  Most of my experience comes from building apps for personal use, and building Uni projects. In the past, I've gathered experience in IT and Software Development through internships at Philips Lighting (currently Signify) as well as working for a small WordPress web design & development studio.
 </details>
 
 ## Ways to reach me
