@@ -1,9 +1,9 @@
 # ✨ Hi, I'm __mikeatta__
 
-**`Web Developer (Frontend / Backend / Web Design)`**
+**`Full-stack / AI Developer`**
 
 ## ℹ️ About
-I am a full-stack developer, currently pursuing a degree in computer science. I started building software solutions to solve my own problems. I build most of my projects from the ground up, using third-party libraries or templates when needed, or where building off of others' projects is a more optimal approach. In design, I favor minimalism, as I believe a clean and bold UI is the best way of providing the necessary information to the user.
+I am a full-time student of computer science with a specialization in machine learning. I work on web applications that leverage AI. My favorite part of the development process is API integration, MLOps/DevOps, and web scraping for useful data. In my spare time, I build personal projects to automate my own business-related tasks like listing management and warm-outreach scrapers.
 
 ---
 
@@ -21,10 +21,10 @@ I am a full-stack developer, currently pursuing a degree in computer science. I 
 [![Database-Skills](https://skillicons.dev/icons?i=mysql,postgres,supabase)](https://skillicons.dev)
 
 <details>
-  <summary><h3>Experience</h3></summary>
-  Most of my experience comes from building apps for personal use, and building Uni projects. In the past, I've gathered experience in IT and Software Development through internships at Philips Lighting (currently Signify) as well as working for a small WordPress web design & development studio.
+  <summary><h3>Past experience</h3></summary>
+  Most of my experience comes from building apps for my own use, for family members, and learning new technologies and frameworks for university course projects. In the past, I've gathered IT and software development experience through internships at Philips Lighting (currently Signify) as well as working with a local web design and development studio.
 </details>
 
-## 👤 Socials
+## 👤 Social links
 [![Social-Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/m_chaels)
 [![Social-Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mikeatta)
